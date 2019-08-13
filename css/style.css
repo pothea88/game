@@ -1,0 +1,20 @@
+.container {
+    justify-content: center;
+    width: 600px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+button {
+    width: 100px;
+    height: 30px;
+    background: rgb(90, 247, 137);
+    cursor: pointer;
+}
+#result {
+    width: 440px;
+    background: teal;
+    padding: 40px;
+    margin-top: 20px;
+    color: white;
+    text-align: center;
+}
